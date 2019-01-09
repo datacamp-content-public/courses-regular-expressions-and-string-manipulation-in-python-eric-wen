@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: '2.4: Searching and Compilation Flags'
+description: 'Here we distinguish between re.match() vs. re.search() and introduce compilation flags.'
 ---
 
 ## Example coding exercise
@@ -13,7 +13,7 @@ xp: 100
 skills: 2
 ```
 
-This is an example exercise.
+ is an example exercise.
 
 `@instructions`
 
@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: 7c8a321651
+xp: 50
+```
+
+`@projector_key`
+d15d73f08145d2bf07a7ea82e5afa437
