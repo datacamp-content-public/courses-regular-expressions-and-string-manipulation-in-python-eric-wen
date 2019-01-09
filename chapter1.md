@@ -43,7 +43,7 @@ is an example exercise.
 
 ---
 
-## Searching for a Pattern
+## Lesson 2.4: Searching and Compilation Flags
 
 ```yaml
 type: VideoExercise
