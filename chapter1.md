@@ -43,7 +43,7 @@ skills: 2
 
 ---
 
-## Insert exercise title here
+## Searching for a Pattern
 
 ```yaml
 type: VideoExercise
