@@ -1,46 +1,6 @@
 ---
-title: '2.4: Searching and Compilation Flags'
+title: 'Sample from Eric Wen'
 description: 'Here we distinguish between re.match() vs. re.search() and introduce compilation flags.'
----
-
-## Example coding exercise
-
-```yaml
-type: NormalExercise
-key: e8c1edbe67
-lang: python
-xp: 100
-skills: 2
-```
-
-is an example exercise.
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{python}
-
-```
-
-`@solution`
-```{python}
-
-```
-
-`@sct`
-```{python}
-
-```
-
 ---
 
 ## Lesson 2.4: Searching and Compilation Flags
